@@ -1,0 +1,31 @@
+;aiu;
+
+[Update]
+Name = Técnicos Inside 2.0
+ProductVersion = 2.0.0.0
+URL = http://localhost:444/phpmyadmin/autorun.exe
+Size = 6455808
+ReleaseDate = 27/04/2020
+SHA256 = 5BC41A08A13B14F5473BEBC4732D47DEB6EDFBEBBA2E1B8E6C3AD19A184B1448
+MD5 = c37c9ee3ed83ddf71e0016e829e8e857
+ServerFileName = autorun.exe
+Flags = Sys64|NoCache|NoRedetect
+FilePath = C:\Users\Técnicos Inside\Desktop\Nueva carpeta\autorun.exe
+Version = 2.0.0.0
+Description = prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción prueba descripción 
+Feature = prueba featuresprueba featuresprueba featuresprueba featuresprueba featuresprueba featuresprueba featuresvprueba features
+Feature1 = prueba featuresprueba featuresprueba featuresprueba featuresprueba featuresprueba featuresprueba featuresprueba featuresprueba features
+Feature2 = prueba featuresprueba featuresprueba featuresprueba featuresprueba features
+Feature3 = prueba featuresprueba featuresprueba features
+Feature4 = prueba featuresprueba featuresprueba features
+Enhancement = Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement 
+Enhancement1 = Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement 
+Enhancement2 = Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement 
+Enhancement3 = Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement Prueba Enhancement 
+BugFix = Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes 
+BugFix1 = Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes 
+BugFix2 = Prueba Bugs Fixes Prueba Bugs Fixes 
+BugFix3 = Prueba Bugs Fixes 
+BugFix4 = Prueba Bugs Fixes 
+BugFix5 = Prueba Bugs Fixes 
+BugFix6 = Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes Prueba Bugs Fixes 
