@@ -1,0 +1,22 @@
+;aiu;
+
+[Update]
+Name = Psiphon 3
+Category = VPN
+ProductVersion = 3.0.0.0
+URL = https://app.nihaocloud.com/f/2a5a23a425ba472f8be9/?dl=1
+URL1 = https://app.nihaocloud.com/f/2a5a23a425ba472f8be9/?dl=1
+Size = 9984743
+ReleaseDate = 27/04/2020
+SHA256 = 908CB85045C238B20F12B34F6788FD8325C3CA4EF6430EB652EB6FE989884C7C
+MD5 = 20e498f7ee049be43e7d583e3229a57d
+ServerFileName = 232.exe
+Flags = NoCache|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Técnicos Inside Runtime\Version
+Version = 3.0.0.0
+Description = Psiphon es un proxy web diseñado para permitir a usuarios de Internet residentes en países sometidos a censura superar los filtros de contenido. Su funcionamiento se basa en redes sociales y las conexiones entre nodos son cifradas, lo que dificulta su detección por parte de las autoridades censoras.
+Feature = ¿Censurado por su país, empresa, o campus?
+Feature1 = Después de tratar con regímenes por todo el mundo, somos singularmente adecuados para ayudarle a conseguir el contenido que quiera, cuándo y dónde lo quiera.
+Enhancement = Desde 2008, Psiphon ha ayudado a millones de personas en países con libertades restringidas por todo el mundo, a acceder de forma segura a conocimiento e ideas censuradas. Ahora Psiphon puede hacer lo mismo por usted.
+BugFix = Psiphon es una herramienta de elusión de Psiphon Inc. que utiliza las tecnologías VPN, SSH, y proxy HTTP para proporcionarle acceso no censurado al contenido en Internet. Su cliente Psiphon aprende automáticamente acerca de nuevos puntos de acceso para maximizar sus oportunidades de evitar la censura.
+BugFix1 = Psiphon está diseñado para proporcionarle un acceso abierto al contenido en línea. Psiphon no incrementa su privacidad en línea, y no debe ser considerado o usado como una herramienta de seguridad en línea.
