@@ -1,0 +1,28 @@
+;aiu;
+
+[Update]
+Name = Jdownloader 2 Versión (TI)
+Category = Ejemplo
+ProductVersion = 2.0.0.1
+URL = https://app.nihaocloud.com/f/8cd27a0bba84404e9ffb/?dl=1
+URL1 = https://app.nihaocloud.com/f/8cd27a0bba84404e9ffb/?dl=1
+Size = 97679544
+SHA256 = F5CC61766ABF1EAE5A0983871D5EF73D41C055AFBC2666FD8BAEDBEF2189DEE1
+MD5 = c816477be68615807e77fe037813b139
+ServerFileName = Jdownloader2.exe
+Flags = Sys64|NoCache|NoRedetect
+FilePath = C:\Program Files (x86)\JDownloader 2\JDownloader2.exe
+Version = 2.0.0.1
+Description = Esto es solo un ejemplo de como serian las descargas de las futuras actualizaciones, para este ejemplo usamos el Jdownloader 2 Versión (TI) totalmente funcional y pre-configurado para simular una actualización de sistema o de aplicativo.
+Description1 = Recuerden que poco a poco a medida sea necesario se publicaran actualizaciones, Fix, y mejoras para los S.O optimizados por Técnicos Inside, las cuales podran descargar desde este medio de una manera facil y sin complicaciones, y instalarlas con la comodidad de los auto-instaladores creados por nosotros para todos ustedes.
+Description2 = Apoyen a Técnicos Inside usando brave como navegador predeterminado y usarlo por 31 dias en todos los equipos posibles, mientras mas equipos mas proyectos GRATIS publicara Técnicos Inside para todos ustedes, con la maxima calidad que nos caracteriza desde hace mas de 10 años.
+Feature = La forma más simple de entender la forma en la que trabaja JDownloader es sabiendo que el programa añadirá a su lista de descarga cualquier dirección web que hayamos copiado en el portapapeles de forma automática por defecto. Por tanto, si por ejemplo queremos descargar cinco archivos hospedados en algún servicio de almacenamiento, lo único que tendremos que hacer es copiar en el portapapeles una a una su dirección web, ya sea pinchando sobre el link con el botón derecho y eligiendo la opción «Copiar en el portapapeles» o pulsando el atajo de teclado Control + C. Este proceso habrá que realizarlo con JDownloader abierto.
+Enhancement = Gestión de descargas
+Enhancement1 = Ahora, si nos vamos a la pestaña «Descargas» veremos cómo se ponen en marcha. Podremos iniciar, pausar o cancelar todos los elementos de la lista manualmente si queremos, ya sea con los botones superiores o de forma específica pulsando sobre el botón derecho sobre cada descarga. Huelga decir que al igual que en el capturador de enlaces, inicialmente todo el paquete de archivos estará contraido en un desplegable que tendremos que abrir pulsando sobre el icono [+] si queremos verlas de forma individual.
+Enhancement2 = En la parte inferior derecha de la pantalla tenemos la opción de limitar la velocidad máxima de descarta total, aunque si la dejamos a cero no existirá tal límite y descargará a la mayor velocidad posible que permita nuestra línea. Las otras dos opciones permiten limitar el número de archivos que se descargarán de forma simultánea, así como el número de intentos para descargar un archivo en caso de que no responda el enlace.
+BugFix = Actualizaciones de plugins silenciosas y regulares
+BugFix1 = Desempeño mejorado
+BugFix2 = Interfaz de usuario mejorada
+BugFix3 = My.JDownloader.org Control remoto
+BugFix4 = Aplicaciones para Android, iOS y Windows Phone
+BugFix5 = Muchas características nuevas para explorar
