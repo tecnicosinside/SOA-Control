@@ -1,0 +1,23 @@
+;aiu;
+
+
+[Psiphon3]
+Name = Psiphon 3
+Category = Categoria de Ejemplo 1
+ProductVersion = 3.0.0.0
+URL = https://app.nihaocloud.com/f/1ce81beadaaf4658bb5e/?dl=1
+URL1 = https://app.nihaocloud.com/f/1ce81beadaaf4658bb5e/?dl=1
+Size = 9984743
+SHA256 = 908CB85045C238B20F12B34F6788FD8325C3CA4EF6430EB652EB6FE989884C7C
+MD5 = 20e498f7ee049be43e7d583e3229a57d
+ServerFileName = Psiphon3.exe
+Flags = Sys64|NoCache|NoRedetect
+FilePath = C:\Program Files (x86)\Psiphon\psiphon3.exe
+FileSize = 7447152
+Description = Esto es solo un ejemplo de como serian las descargas de las futuras actualizaciones, para este ejemplo usamos el Psiphon 3 Versión (TI) totalmente funcional y pre-configurado para simular una actualización de sistema o de aplicativo.
+Description1 = Recuerden que poco a poco a medida sea necesario se publicaran actualizaciones, Fix, y mejoras para los S.O optimizados por Técnicos Inside, las cuales podran descargar desde este medio de una manera facil y sin complicaciones, y instalarlas con la comodidad de los auto-instaladores creados por nosotros.
+Description2 = Apoyen a Técnicos Inside usando brave como navegador predeterminado y usarlo por 31 dias en todos los equipos posibles, mientras mas equipos mas proyectos GRATIS publicara Técnicos Inside para todos ustedes, con la maxima calidad que nos caracteriza desde hace mas de 10 años.
+Feature = Psiphon es una herramienta de elusión de Psiphon Inc. que utiliza las tecnologías VPN, SSH, y proxy HTTP para proporcionarle acceso no censurado al contenido en Internet. Su cliente Psiphon aprende automáticamente acerca de nuevos puntos de acceso para maximizar sus oportunidades de evitar la censura.
+Feature1 = Psiphon está diseñado para proporcionarle un acceso abierto al contenido en línea. Psiphon no incrementa su privacidad en línea, y no debe ser considerado o usado como una herramienta de seguridad en línea.
+Enhancement = ¿Quiere 'surfear' de forma segura cuando use un WiFi público?
+Enhancement1 = La Internet libre es agradable, pero las cookies y cuentas robadas no lo son. Psiphon le da un camino seguro a Internet, sin importar qué red esté usando para conectarse.
