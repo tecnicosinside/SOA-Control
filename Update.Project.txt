@@ -1,0 +1,52 @@
+;aiu;
+
+[Worstations  FIX]
+Name = FIX de migracion de sistema para Worstations
+Category = Actualizacion de Windows (Para proyectos de TI)
+ProductVersion = 2020.0.0.0
+URL = https://app.nihaocloud.com/f/4952d813eb8048fab144/?dl=1
+URL1 = https://app.nihaocloud.com/f/4952d813eb8048fab144/?dl=1
+Size = 2698544
+ReleaseDate = 04/05/2020
+ServerFileName = FIX.Migracion.Workstations.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Workstations luego reiniciar y reactivar el sistema.
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
+
+[Enterprise FIX]
+Name = FIX de migracion de sistema para Enterprise
+Category = Actualizacion de Windows (Para proyectos de TI)
+ProductVersion = 2020.0.0.0
+URL = https://app.nihaocloud.com/f/79010d751ef24394ba10/?dl=1
+URL1 = https://app.nihaocloud.com/f/79010d751ef24394ba10/?dl=1
+Size = 2698538
+ReleaseDate = 04/05/2020
+ServerFileName = FIX.Migracion.Enterprise.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Enterprise luego reiniciar y reactivar el sistema.
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
+
+[Professional FIX]
+Name = FIX de migracion de sistema para Professional
+Category = Actualizacion de Windows (Para proyectos de TI)
+ProductVersion = 2020.0.0.0
+URL = https://app.nihaocloud.com/f/98afc26639434edf97a7/?dl=1
+URL1 = https://app.nihaocloud.com/f/98afc26639434edf97a7/?dl=1
+Size = 2698609
+ReleaseDate = 04/05/2020
+ServerFileName = FIX.Migracion.Professional.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Professional luego reiniciar y reactivar el sistema.
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
