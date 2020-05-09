@@ -1,0 +1,96 @@
+;aiu;
+
+[Links Update ISO 3.1]
+Name = Links del ISO 3.1    (Recomendado bajar y instalar)
+Category = Actualizacion de ISOS (Para proyectos de TI)
+ProductVersion = 3.1.0.0
+URL = http://www.mediafire.com/file/b501lif3gp0ihwu/Actualizacion.ISO.3.1.Links.exe
+URL1 = http://www.mediafire.com/file/b501lif3gp0ihwu/Actualizacion.ISO.3.1.Links.exe
+Size = 2644874
+ReleaseDate = 08/05/2020
+ServerFileName = Actualización ISO 3.1 Links.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualización ISO 3.1 LINK\Version
+Version = 3.1.0.0
+Description = Update de la ISO 3.0 a 3.1
+Description1 = Links acortados con OUO.IO para descarga por  Mega, Google Drive, Mediafire
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Changelog 3.1
+BugFix1 = Se modifico y mejoro el programa actualizador, y SOA no lo pone por defecto ejecutado en el inicio del sistema ya queda a elección del usuario.
+BugFix2 = Se modificaron parámetros del menú contextual avanzado y su archivo PowerRun para los paranoicos con VIRUS, TROYANOS ,etc mas información aquí https://youtu.be/dfK29-M6fIo
+BugFix3 = Se agrego un contador de tiempo para habilitar los botones de inicio de SOA para que los usuarios LEAN los mensajes que se les deja en el proyecto, para eso están, ¿NO? para leerlos.
+BugFix4 = Se mejoro la limpieza de temporales al final de la instalación
+BugFix5 = Se mejoro el programa que activa y desactiva el actualizador al inicio de Windows.
+BugFix6 = Se mejoro la optimización para discos SSD,NVME, M.2 y se agrego detener el servicio de auto optimización de Windows al usar discos de estado solido, esa opción queda para discos HDD junto con las demás optimizaciones.
+BugFix7 = Se elimino el error del actualizador el cual mostraba un mensaje a algunos usuarios de que no se podía ejecutar.
+BugFix8 = Se activo la compatibilidad de SOA con maquinas virtuales para que puedan probarlo antes de instalarlo.
+
+[Update 19041.208]
+Category = Actualizacion de Windows (Para proyectos de TI)
+Name = Actualizacion 19041.208 para 20H1
+ProductVersion = 2.0.8.0
+URL = http://www.mediafire.com/file/zqr680mytmd0glm/Update.Windows.2.0.8.exe
+URL1 = http://www.mediafire.com/file/zqr680mytmd0glm/Update.Windows.2.0.8.exe
+Size = 170084855
+ReleaseDate = 04/05/2020
+ServerFileName = Update Windows (2.0.8).exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKCU\SOFTWARE\Técnicos Inside\Update Win\Version
+Version = 2.0.8.0
+Description = No disponible a un en las actualizaciones de Windows normales, pero Tecnicos Inside se la trae de manera facil y comoda a traves de sus actualizaciones.
+Description1 = Microsoft ha proporcionado una actualizacion para Windows 10 2004. El KB 4558244 aumenta marginalmente el numero de versión a 19041.208.
+Feature = En Microsoft son conscientes de que los usuarios de Narrator y NVDA que buscan la ultima version de Microsoft Edge basada en Chromium pueden experimentar algunas dificultades al navegar y leer cierto contenido web. Los equipos Narrador, NVDA y Edge estan al tanto de estos problemas. Los usuarios de Microsoft Edge anterior no se veran afectados. NVAccess ha lanzado un NVDA 2019.3 que resuelve el problema conocido con Edge.
+Enhancement = Esta compilacion tambien se ha actualizado para Windows 10 2004 RTM.
+Enhancement1 = No hay ningun Nuevo SSU esta vez.
+BugFix = Se ha corregido un error: "Hemos corregido un problema que provocaba que las notificaciones de la API NPLogonNotify no se enviaran desde Credential Framework." Esta actualizacion es acumulativa e incluye todas las mejoras en el KB4550936
+
+[Worstations  FIX]
+Name = FIX de migracion de sistema para Worstations
+Category = Fix  (Para proyectos de TI)
+ProductVersion = 1.1.0.0
+URL = http://www.mediafire.com/file/w6lkpzo73dsnfj5/Migracion.FIX.W.exe
+URL1 = http://www.mediafire.com/file/w6lkpzo73dsnfj5/Migracion.FIX.W.exe
+Size = 6571520
+ReleaseDate = 04/05/2020
+ServerFileName = Migracion.FIX.W.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Workstations luego reiniciar y reactivar el sistema.
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
+
+[Enterprise FIX]
+Name = FIX de migracion de sistema para Enterprise
+Category = Fix (Para proyectos de TI)
+ProductVersion = 1.1.0.0
+URL = http://www.mediafire.com/file/rhos0q663xb5zqv/FIX.Migracion.E.exe
+URL1 = http://www.mediafire.com/file/rhos0q663xb5zqv/FIX.Migracion.E.exe
+Size = 6571498
+ReleaseDate = 04/05/2020
+ServerFileName = FIX.Migracion.E.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Enterprise luego reiniciar y reactivar el sistema.
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
+
+[Professional FIX]
+Name = FIX de migracion de sistema para Professional
+Category = Fix (Para proyectos de TI)
+ProductVersion = 1.1.0.0
+URL = http://www.mediafire.com/file/iuvl88k2pqx8ohy/Migracion.FIX.P.exe
+URL1 = http://www.mediafire.com/file/iuvl88k2pqx8ohy/Migracion.FIX.P.exe
+Size = 6571590
+ReleaseDate = 04/05/2020
+ServerFileName = Migracion.FIX.P.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Professional luego reiniciar y reactivar el sistema.
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
