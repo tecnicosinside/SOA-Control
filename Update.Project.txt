@@ -1,0 +1,99 @@
+;aiu;
+
+[Update 19041.264]
+Name = Actualizacion 19041.264 para 20H1 RTM
+Category = Actualizacion de Windows (Para proyectos de TI)
+ProductVersion = 2.6.4.0
+URL = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C9CT62LPLgzOr-MB9r5vA2YguPvEWS5-
+URL1 = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C9CT62LPLgzOr-MB9r5vA2YguPvEWS5-
+Size = 207164857
+ReleaseDate = 15/05/2020
+ServerFileName = Update.Windows.2.6.4.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Update Win\Version
+Version = 2.6.4.0
+Description = Actualización KB4556803 para Windows 10 versión 2004 RTM (May 2020 Update. Esta actualización, que lleva el número de compilación 19041.264, se corresponde con las actualizaciones mensuales y contiene algunas mejoras de calidad y las actualizaciones mensuales de seguridad.
+Description1 = Esta actualización se descomprime en C:\Windows\Temp por si quieren revisarla para los paranoicos con los virus.
+Description2 = LINK DIRECTO POR SI ESTA SATURADO EL SERVIDOR Y NO DESCARGA COPIEN Y PEGUEN ESTE LINK EN SU NAVEGADOR PARA DESCARGA MANUAL.
+Description3 = https://www.mediafire.com/file/t4ki8zurbo5k6ww/Update.Windows.2.6.4.exe
+Enhancement = Sobre la accesibilidad
+Enhancement1 = Los usuarios de Narrador y NVDA que utilizan la última versión de Microsoft Edge basada en Chromium pueden experimentar algunas dificultades al navegar y leer cierto contenido web. Los equipos de Narrador, NVDA y Edge están al tanto de estos problemas. Los usuarios de Microsoft Edge heredado no se verán afectados. NVAccess ha lanzado la versión NVDA 2019.3 que resuelve el problema conocido con Edge.
+BugFix = Los cambios principales son:
+BugFix1 = * Se ha solucionado un problema de rendimiento en Windows Mixed Reality (WMR) que impide que funcione correctamente para muchos usuarios.
+BugFix2 = * Se ha solucionado un problema que impide que las herramientas de limpieza, como Disk Cleanup, eliminen las actualizaciones instaladas previamente.
+BugFix3 = * Se ha actualizado la fecha de inicio de 2020 para el horario de verano (DST) en el Reino de Marruecos. Para obtener más información, consulte KB4557900.
+BugFix4 = * Actualizaciones de seguridad para Internet Explorer, Microsoft Scripting Engine, Plataforma y marcos de aplicaciones de Windows, Componente de gráficos de Microsoft, Entrada y composición de Windows, Windows Media, Windows Shell, Microsoft Xbox, Microsoft Edge, Fundamentos de Windows, Criptografía de Windows, Autenticación de Windows, Kernel de Windows, Virtualización de Windows, Windows Update Stack, Windows Core Networking, Internet Information Services, Windows Network Security and Containers, Windows Active Directory, Windows Server y Microsoft JET Database Engine.
+
+[Actualizador 1.1.2]
+Category = Actualizacion (Para proyectos de TI)
+Name = Actualizador 1.1.2
+ProductVersion = 1.1.2.0
+URL = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1Osp3Lnv539TBIfjncv0wMDT0tvApA-xj
+URL1 = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1Osp3Lnv539TBIfjncv0wMDT0tvApA-xj
+Size = 12930197
+ReleaseDate = 14/05/2020
+ServerFileName = Actualizador (TI) 1.1.2.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Proyectos de Técnicos Inside ®\Version
+Version = 1.1.2.0
+Description = Actualizador de proyectos de TI versión 1.1.2
+Description1 = LINK DIRECTO POR SI ESTA SATURADO EL SERVIDOR Y NO DESCARGA COPIEN Y PEGUEN ESTE LINK EN SU NAVEGADOR PARA DESCARGA MANUAL.
+Description2 = http://www.mediafire.com/file/ina644f62hsgcjk/Actualizador.TI.1.1.2.exe
+BugFix = Reparado el contador de uso de brave.
+
+[Worstations  FIX]
+Category = Fix (Para proyectos de TI)
+Name = FIX de migracion de sistema para Worstations
+ProductVersion = 1.1.0.0
+URL = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1e9P4Y_m-RbwTYJOmi-SEkUB3qHENbax0
+URL1 = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1e9P4Y_m-RbwTYJOmi-SEkUB3qHENbax0
+Size = 6571520
+ReleaseDate = 04/05/2020
+ServerFileName = Migracion.FIX.W.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Workstations luego reiniciar y reactivar el sistema.
+Description2 = LINK DIRECTO POR SI ESTA SATURADO EL SERVIDOR Y NO DESCARGA COPIEN Y PEGUEN ESTE LINK EN SU NAVEGADOR PARA DESCARGA MANUAL.
+Description3 = http://www.mediafire.com/file/w6lkpzo73dsnfj5/Migracion.FIX.W.exe
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
+
+[Enterprise FIX]
+Category = Fix (Para proyectos de TI)
+Name = FIX de migracion de sistema para Enterprise
+ProductVersion = 1.1.0.0
+URL = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1KqrhucV9kR_sXeVxj5zp9Nrv2ukI4tXr
+URL1 = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1KqrhucV9kR_sXeVxj5zp9Nrv2ukI4tXr
+Size = 6571498
+ReleaseDate = 04/05/2020
+ServerFileName = FIX.Migracion.E.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Enterprise luego reiniciar y reactivar el sistema.
+Description2 = LINK DIRECTO POR SI ESTA SATURADO EL SERVIDOR Y NO DESCARGA COPIEN Y PEGUEN ESTE LINK EN SU NAVEGADOR PARA DESCARGA MANUAL.
+Description3 = http://www.mediafire.com/file/rhos0q663xb5zqv/FIX.Migracion.E.exe
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
+
+[Professional FIX]
+Name = FIX de migracion de sistema para Professional
+Category = Fix (Para proyectos de TI)
+ProductVersion = 1.1.0.0
+URL = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13XBXlE4EgQZXzOT3ccumulnh6FiSOsSq
+URL1 = https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13XBXlE4EgQZXzOT3ccumulnh6FiSOsSq
+Size = 6571590
+ReleaseDate = 04/05/2020
+ServerFileName = Migracion.FIX.P.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Migración FIX\Version
+Version = 2020.0.0.0
+Description = Solucion a la migracion erronea del sistema.
+Description1 = Aplicar para migrar a Windows Professional luego reiniciar y reactivar el sistema.
+Description2 = LINK DIRECTO POR SI ESTA SATURADO EL SERVIDOR Y NO DESCARGA COPIEN Y PEGUEN ESTE LINK EN SU NAVEGADOR PARA DESCARGA MANUAL.
+Description3 = http://www.mediafire.com/file/iuvl88k2pqx8ohy/Migracion.FIX.P.exe
+Feature = Soluciones faciles y rapidas, solo (TI) las puede ofrecer.
+BugFix = Soluciona la migracion erronea por tener llave de activacion OEM en el Bios del equipo.
