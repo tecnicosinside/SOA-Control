@@ -1,0 +1,38 @@
+;aiu;
+
+[StartIsBack++]
+Name = Actualizacion para StartIsBack++ 2.9.1
+Category = Actualizacion de Aplicaciones (SOA Control Panel)
+ProductVersion = 2.9.1.0
+URL = http://www.mediafire.com/file/1dj08fdwbxsc97z/Update.SBack.exe
+URL1 = http://www.mediafire.com/file/1dj08fdwbxsc97z/Update.SBack.exe
+Size = 4085798
+ReleaseDate = 23/05/2020
+ServerFileName = Update.SBack++.exe
+Flags = Critical|NotSelected|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualizacion de StartIsBack++\Version
+Version = 2.9.1.0
+Description = Link Directo: http://www.mediafire.com/file/1dj08fdwbxsc97z/Update.SBack.exe
+Description1 = Menú de inicio genuino
+Description2 = Tu fiel amigo de escritorio que te ayuda a:
+Description3 = Inicie programas que usa con frecuencia
+Description4 = Abrir documentos en los que está trabajando
+Description5 = Encuentra las cosas que estás buscando
+Description6 = Ir a lugares del sistema con un clic
+Description7 = Apague fácilmente su sistema
+Description8 = Siéntete como en casa con las nuevas ventanas
+Description9 = StartIsBack se integra completamente con Windows y proporciona una experiencia de barra de tareas y menú de inicio original de Windows 7, mejorada con muchas características nuevas también.
+Description10 = Soporta todos los idiomas de Windows!
+Description11 = Menú de inicio genuino
+Description12 = Tu fiel amigo de escritorio que te ayuda a:
+Description13 = Inicie programas que usa con frecuencia
+Description14 = Abrir documentos en los que está trabajando
+Description15 = Encuentra las cosas que estás buscando
+Description16 = Ir a lugares del sistema con un clic
+Description17 = Apague fácilmente su sistema
+Description18 = Siéntete como en casa con las nuevas ventanas
+Description19 = StartIsBack se integra completamente con Windows y proporciona una experiencia de barra de tareas y menú de inicio original de Windows 7, mejorada con muchas características nuevas también.
+Description20 = Soporta todos los idiomas de Windows!
+BugFix = Version ++2.9.1 «Super Polishing» 25 April 2020
+BugFix1 = Support for start menu live resizing
+BugFix2 = Tons of fixes and performance improvements
