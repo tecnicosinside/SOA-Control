@@ -1,0 +1,23 @@
+;aiu;
+
+[Update.1.0.20.07]
+Category = Actualizacion de (SOA Control Panel)
+Name = Actualizacion 1.0.20.07  para SOA Control Panel.
+ProductVersion = 1.0.20.7
+URL = https://www.mediafire.com/file/a3p1j8wsxgdj4tz/Update.1.0.20.07.exe
+URL1 = https://www.mediafire.com/file/a3p1j8wsxgdj4tz/Update.1.0.20.07.exe
+Size = 57498255
+ReleaseDate = 09/06/2020
+ServerFileName = Update.1.0.20.07.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualizaciones de SOA Control Panel ®\Version
+Version = 1.0.20.7
+Description = Actualizacion de correción 1.0.20.07
+Description1 = Dedicamos nuestro tiempo para ahorrarte el tuyo.
+Feature = El limite de descarga de ancho de banda del Panel es de 1 TERA mensual, se resetea todos los 5 de cada mes, si falla las descargas es que se acabo el ancho de banda del mes, dejare link directo para que bajen la actualización manual.
+Feature1 = Link directo: https://bit.ly/2YdVCBz  deben escribirla en su navegador ya que este actualizador no permite copiar el link.
+BugFix = Correciones de ultima hora aplicadas.
+BugFix1 = Nuevo: Se ha actualizado el panel para que cierre la conexion con la base de datos luego de iniciar.
+BugFix2 = Solucionado recordar usuario en inicio de sección
+BugFix3 = Se agrego el modo offline de inicio de sección y el modo online pasa a ser exclusivo de los usuarios PREMIUM
+BugFix4 = Agrega nuevo instalador de actualizaciones donde podrás escoger la ruta de la carpeta Herramientas para TI para poder actualizar el programa no importa en que ruta este.
