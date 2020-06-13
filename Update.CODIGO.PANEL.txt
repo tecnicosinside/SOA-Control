@@ -1,0 +1,25 @@
+;aiu;
+
+[Update.1.0.21.08]
+Category = Actualizacion de (SOA Control Panel)
+Name = Actualizacion 1.0.21.08  para SOA Control Panel.
+ProductVersion = 1.0.21.8
+URL = http://www.mediafire.com/file/15x61r0c271s3i6/Update.1.0.21.08.exe
+URL1 = http://www.mediafire.com/file/15x61r0c271s3i6/Update.1.0.21.08.exe
+Size = 58541488
+ReleaseDate = 13/06/2020
+ServerFileName = Update.1.0.21.08.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualizaciones de SOA Control Panel ®\Version
+Version = 1.0.21.8
+Description = Actualizacion de correción 1.0.21.08 (12/06/2020)
+Description1 = Esta actualización es solo compatible con el PANEL SOA CONTROL.
+Description2 = Dedicamos nuestro tiempo para ahorrarte el tuyo.
+Feature = El limite de descarga de ancho de banda del Panel es de 1 TERA mensual, se resetea todos los 5 de cada mes, si falla las descargas es que se acabo el ancho de banda del mes, dejare link directo para que bajen la actualización manual.
+Feature1 = Link directo: https://bit.ly/3fjstMd  deben escribirla en su navegador ya que este actualizador no permite copiar el link.
+BugFix = NUEVO: Se agrego la posibilidad de eliminar secciones del panel y recuperar espacio de almacenamiento.
+BugFix1 = Correciones menores en el codigo
+BugFix2 = Se ha actualizado el panel para que cierre la conexion con la base de datos luego de iniciar.
+BugFix3 = Solucionado recordar usuario en inicio de sección
+BugFix4 = Se agrego el modo No poseo una cuenta de inicio de sección y el modo online pasa a ser exclusivo de los usuarios PREMIUM
+BugFix5 = Agrega nuevo instalador de actualizaciones donde podrás escoger la ruta de la carpeta Herramientas para TI para poder actualizar el programa no importa en que ruta este.
