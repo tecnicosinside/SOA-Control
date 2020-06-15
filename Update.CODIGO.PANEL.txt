@@ -1,0 +1,24 @@
+;aiu;
+
+[Update.1.0.22.09]
+Category = Actualizacion de (SOA Control Panel)
+Name = Actualizacion 1.0.22.09  para SOA Control Panel.
+ProductVersion = 1.0.22.9
+URL = https://www.mediafire.com/file/3zr519shmvskhll/Update.1.0.22.09.exe
+URL1 = https://www.mediafire.com/file/3zr519shmvskhll/Update.1.0.22.09.exe
+Size = 59321476
+ReleaseDate = 14/06/2020
+ServerFileName = Update.1.0.22.09.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualizaciones de SOA Control Panel ®\Version
+Version = 1.0.22.9
+Description = Actualizacion de correción 1.0.22.09 (14/06/2020)
+Description1 = Esta actualización es solo compatible con el PANEL SOA CONTROL.
+Description2 = Dedicamos nuestro tiempo para ahorrarte el tuyo.
+Feature = El limite de descarga de ancho de banda del Panel es de 1 TERA mensual, se resetea todos los 5 de cada mes, si falla las descargas es que se acabo el ancho de banda del mes, dejare link directo para que bajen la actualización manual.
+Feature1 = Link directo: https://bit.ly/2UGwAKj  deben escribirla en su navegador ya que este actualizador no permite copiar el link.
+BugFix = Nuevo: Se ha agregado la posibilidad de eliminar secciones enteras para ahorrar espacio.
+BugFix1 = Nuevo: Se ha agregado la posibilidad de descargar de muchos servidores como Mega de manera Premium, "solo para usuarios con cuenta Premium".
+BugFix2 = Nuevo: Se ha agregado se ha agregado un nuevo botón para iniciar sesión sin cuenta, llamado "no poseo cuenta".
+BugFix3 = Nuevo: Se ha agregado los credenciales DLC ya escritos por defecto, de solo presionar el botón Desbloquear todo en el apartado DLC, necesita tener internet para ello.
+BugFix4 = Correciones menores del codigo.
