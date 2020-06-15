@@ -1,0 +1,25 @@
+;aiu;
+
+[Update.1.0.23.10]
+Category = Actualizacion de (SOA Control Panel)
+Name = Actualizacion 1.0.23.10  para SOA Control Panel.
+ProductVersion = 1.0.23.10
+URL = https://www.mediafire.com/file/ro8duzgzms4c4aj/Update.1.0.23.10.exe
+URL1 = https://www.mediafire.com/file/ro8duzgzms4c4aj/Update.1.0.23.10.exe
+Size = 59339082
+ReleaseDate = 14/06/2020
+ServerFileName = Update.1.0.23.10.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualizaciones de SOA Control Panel ®\Version
+Version = 1.0.23.10
+Description = Actualizacion de correción 1.0.23.10 (14/06/2020)
+Description1 = Esta actualización es solo compatible con el PANEL SOA CONTROL.
+Description2 = Dedicamos nuestro tiempo para ahorrarte el tuyo.
+Feature = Nuevo: se ha corregido la instalación de office 2019, para activarlo usar la opción activador del panel.
+Feature1 = Nuevo: Se ha agregado la posibilidad de eliminar secciones enteras para ahorrar espacio.
+Feature2 = Nuevo: Se ha agregado la posibilidad de descargar de muchos servidores como Mega de manera Premium, "solo para usuarios con cuenta Premium".
+Feature3 = Nuevo: Se ha agregado se ha agregado un nuevo botón para iniciar sesión sin cuenta, llamado "no poseo cuenta".
+Feature4 = Nuevo: Se ha agregado los credenciales DLC ya escritos por defecto, de solo presionar el botón Desbloquear todo en el apartado DLC, necesita tener internet para ello.
+Feature5 = Correciones menores del codigo.
+Enhancement = El limite de descarga de ancho de banda del Panel es de 1 TERA mensual, se resetea todos los 5 de cada mes, si falla las descargas es que se acabo el ancho de banda del mes, dejare link directo para que bajen la actualización manual.
+Enhancement1 = Link directo: https://bit.ly/2UH5TFG  deben escribirla en su navegador ya que este actualizador no permite copiar el link.
