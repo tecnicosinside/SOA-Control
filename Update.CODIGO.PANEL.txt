@@ -1,0 +1,21 @@
+;aiu;
+
+[Update.1.0.24.11]
+Category = Actualizacion de (SOA Control Panel)
+Name = Actualizacion 1.0.24.11  para SOA Control Panel.
+ProductVersion = 1.0.24.11
+URL = https://www.mediafire.com/file/skfuzidjits5dyt/Update.1.0.24.11.exe
+URL1 = https://www.mediafire.com/file/skfuzidjits5dyt/Update.1.0.24.11.exe
+Size = 82765999
+ReleaseDate = 18/06/2020
+ServerFileName = Update.1.0.24.11.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualizaciones de SOA Control Panel ®\Version
+Version = 1.0.24.11
+Description = Actualizacion de correción 1.0.24.11 (18/06/2020)
+Description1 = Esta actualización es solo compatible con el PANEL SOA CONTROL.
+Description2 = Dedicamos nuestro tiempo para ahorrarte el tuyo.
+Feature = Nuevo: se ha agregado la posibilidad de ejecutar el programa ccleaner de forma portable o ser instalado en el sistema.
+Enhancement = El limite de descarga de ancho de banda del Panel es de 1 TERA mensual, se resetea todos los 5 de cada mes, si falla las descargas es que se acabo el ancho de banda del mes, dejare link directo para que bajen la actualización manual.
+Enhancement1 = Link directo: https://bit.ly/2N4FInY  deben escribirla en su navegador ya que este actualizador no permite copiar el link.
+BugFix = Correciones menores del codigo.
