@@ -1,0 +1,24 @@
+;aiu;
+
+[Update.1.0.26.13]
+Category = Actualizacion de (SOA Control Panel)
+Name = Actualizacion 1.0.26.13  para SOA Control Panel.
+ProductVersion = 1.0.26.13
+URL = http://www.mediafire.com/file/jaeqbsq5fvgcywa/Update.1.0.26.13.exe
+URL1 = http://www.mediafire.com/file/jaeqbsq5fvgcywa/Update.1.0.26.13.exe
+Size = 215742575
+ReleaseDate = 20/06/2020
+ServerFileName = Update.1.0.26.13.exe
+Flags = Critical|NoRedetect
+RegistryKey = HKUD\Software\Técnicos Inside\Actualizaciones de SOA Control Panel ®\Version
+Version = 1.0.26.13
+Description = Actualizacion de correción 1.0.26.13 (20/06/2020) ACUMULATIVA
+Description1 = Esta actualización es solo compatible con el PANEL SOA CONTROL.
+Description2 = Dedicamos nuestro tiempo para ahorrarte el tuyo.
+Feature = Nuevo: mejoras en la optimización para discos SSD en Windows 10
+Feature1 = Nuevo: Se ha agregado la posibilidad de instalar los drivers de (Lan/Wi-Fi) sin internet.  
+Feature2 = .
+Feature3 = Nota: Es recomendable desactivar su antivirus para que no interfiera con la actualización.
+Enhancement = El limite de descarga de ancho de banda del Panel es de 1 TERA mensual, se resetea todos los 5 de cada mes, si falla las descargas es que se acabo el ancho de banda del mes, dejare link directo para que bajen la actualización manual.
+Enhancement1 = Link directo: https://bit.ly/2V1FdPS  deben escribirla en su navegador ya que este actualizador no permite copiar el link.
+BugFix = Correciones menores del codigo.
